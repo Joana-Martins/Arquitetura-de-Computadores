@@ -1,4 +1,4 @@
-INSTRUÇÕES
+INSTRUÃ‡Ã•ES
 
 add $1, $2, $3
 
